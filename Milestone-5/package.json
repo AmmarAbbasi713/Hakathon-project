@@ -1,0 +1,13 @@
+{
+  "name": "milestone-5",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+  "build": "webpack --config webpack.config.js" 
+},
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
